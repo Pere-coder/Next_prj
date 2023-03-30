@@ -15,8 +15,8 @@ export default function Home() {
       <div>
       
         <h1 className={styles.title}>Homepage</h1>
-        <p className={styles.text}>sndfjfbjfnjvnvkfvmkfmde3kfmekdfmdkf</p>
-        <p className={styles.text}>sndfjfbjfnjvnvkfvmkfmde3kfmekdfmdkf</p>
+        <p className={styles.text}>welcome to my test home page.</p>
+        <p className={styles.text}>Basically i am testing out Next js functionalities</p>
         <Link legacyBehavior href="/peres">
           <a className={styles.btn}>See ninja listing</a>
         </Link>

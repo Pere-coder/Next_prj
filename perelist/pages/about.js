@@ -10,8 +10,8 @@ const About = () => {
         </Head>
         <div>
         <h1>About</h1>
-        <p>Lorem jdxbdfdjndkjfndkfndkfndkf</p>
-        <p>Lorem jdxbdfdjndkjfndkfndkfndkf</p>
+        <p>This web app was comreated using NextJs with lots of react features</p>
+        <p>This app would be my boiler template for all NextJs functionality</p>
         </div>
         </>
      );
